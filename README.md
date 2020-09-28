@@ -1,4 +1,4 @@
-# Data-Mining Website Articles
+# Data-Mining of Website Articles
 
 Many websites publish articles or stories periodically. 
 Good examples of such sites are [Analytics Vidhya](https://datahack.analyticsvidhya.com/) and [NL Times](https://nltimes.nl/). 
