@@ -8,3 +8,5 @@ dependencies:
   - pip:
     - pandas
     - matplotlib
+    - bs4
+    - datetime
